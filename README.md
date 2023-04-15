@@ -1,1 +1,3 @@
 # Intraday trading
+
+Hey Quant and Data analyst 👋 , This is first documentation of Intraday trading and time series analysis. ⏲ I am just using logistic regression for binary classification of max and min value and StandardScaler for comparing 🚗 Tesla and 🎁 Amazon. well, Intraday trading refers to the practice of buying and selling financial instruments within the same 📊 trading day. This type of trading can be used to generate profits by taking advantage of short-term price movements in the market. In order to be successful in intraday trading, traders must be able to quickly analyse and interpret market data, as well as have a good understanding of technical analysis and risk management techniques. 📉
